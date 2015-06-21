@@ -1,4 +1,4 @@
-## These fumctions cache a matrix and take the inverse of them.
+## These functions cache a matrix and take the inverse of them (unless they don't work topkek).
 
 ## This function sets up the matrix and caches the im portant data.
 
